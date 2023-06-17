@@ -43,6 +43,10 @@
         width: 20px!important;
     }
 
+    .contact-section-1 {
+        height: 30vh;
+    }
+
 }
 
 @media (max-width: 576px){
